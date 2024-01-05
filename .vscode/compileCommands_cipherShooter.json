@@ -1,0 +1,202 @@
+[
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\BTService_EnemyLastLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\BTService_EnemyLastLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\BTService_EnemyLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\BTService_EnemyLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\BTT_Shoot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\BTT_Shoot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\ClearBlackBoardValue.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\ClearBlackBoardValue.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\Gun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\Gun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\KillEmGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\KillEmGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyBTService_BlackboardBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyBTService_BlackboardBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\MyPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\cipherShooter.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\cipherShooter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\cipherShooter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\cipherShooterGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "A:\\Unreal Projects\\cipherShooter\\Source\\cipherShooter\\cipherShooterGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\Hostx64\\x64\\cl.exe",
+			"@A:\\Unreal Projects\\cipherShooter\\.vscode\\compileCommands_cipherShooter\\cipherShooter.261.rsp"
+		],
+		"directory": "A:\\UE_5.2\\Engine\\Source"
+	}
+]
