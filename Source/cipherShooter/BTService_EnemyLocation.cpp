@@ -21,13 +21,10 @@ void UBTService_EnemyLocation::TickNode(UBehaviorTreeComponent& OwnerComp, uint8
                  AAIController* ai= OwnerComp.GetAIOwner();
                  if(pCharacter !=nullptr && ai!=nullptr){
                     if(ai->LineOfSightTo(player)){
-                         //UE_LOG(LogTemp, Warning, TEXT("%f"),player->GetActorLocation().Z);
                          OwnerComp.GetBlackboardComponent()->SetValueAsObject(GetSelectedBlackboardKey(),pCharacter->fp);
-                        // OwnerComp.GetBlackboardComponent()->SetValueAsObject("EnemyRot",transf);
                     }else{
                        OwnerComp.GetBlackboardComponent()->ClearValue(GetSelectedBlackboardKey());
                        OwnerComp.GetBlackboardComponent()->SetValueAsVector("EnemyLastLocation",player->GetActorLocation());
-                       // OwnerComp.GetBlackboardComponent()->ClearValue("EnemyLoc");
                     }
                 }
             }

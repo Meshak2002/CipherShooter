@@ -36,7 +36,7 @@ bool AGun::GunTrace(FRotator& r,FHitResult& hit)
 		FVector l;
 		//FRotator r;
 		player->GetController()->GetPlayerViewPoint(l,r);
-		UGameplayStatics::SpawnEmitterAttached(muzzle,mesh,TEXT("RifleRootSocket"));
+	    UGameplayStatics::SpawnEmitterAttached(muzzle,mesh,TEXT("RifleRootSocket"));
 		UGameplayStatics::SpawnSoundAttached(muzzleSound,mesh,TEXT("Muzzle Sound"));
 
 		FVector endPoint=l+r.Vector()*range;

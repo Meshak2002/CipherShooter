@@ -19,8 +19,9 @@ void AMyPlayerController::GameHasEnded(AActor* EndGameFocus, bool bIsWinner)
           UUserWidget* losewidget = CreateWidget<UUserWidget>(this, widget.Get());
           if(losewidget!=nullptr)
              losewidget->AddToViewport();
+             GetWorldTimerManager().SetTimer(time,this,&AMyPlayerController::RestartLevel,timer);
     }
-    GetWorldTimerManager().SetTimer(time,this,&AMyPlayerController::RestartLevel,timer);
+    
     
 }
 
